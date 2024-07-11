@@ -1,0 +1,29 @@
+html{
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.inp_Matris {
+    margin: 2px;
+    width: 30px;
+}
+
+.fw-bold{
+    font-weight: bold;
+}
+
+#tblMatris1{
+    margin-bottom: 10px;
+}
+
+#tblMatris2{
+    margin-bottom: 10px;
+}
+
+.inp_Matris{
+margin-top: 10px;
+}
+
+.selectBox{
+    margin-right: 10px;
+}
+
